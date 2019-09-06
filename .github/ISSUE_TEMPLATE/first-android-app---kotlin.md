@@ -1,7 +1,7 @@
 ---
 name: First Android App - Kotlin
 about: Report issues with the Build Your First Android App in Kotlin codelab
-title: ''
+title: 'First Android app codelab: '
 labels: ''
 assignees: ''
 

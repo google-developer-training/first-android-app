@@ -1,7 +1,7 @@
 ---
 name: First Android App - Java
 about: Report issues with the Build Your First Android App in Java codelab
-title: 'First Android App codelab: '
+title: 'First Android app codelab: '
 labels: ''
 assignees: ''
 

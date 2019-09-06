@@ -1,7 +1,7 @@
 ---
 name: First Android App - Kotlin
-about: Describe this issueReport issues with the Build Your First Android App in Kotlin
-  codelab template's purpose here.
+about: Report issues with the Build Your First Android App in Kotlin codelab template's
+  purpose here.
 title: ''
 labels: ''
 assignees: ''

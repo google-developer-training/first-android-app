@@ -17,4 +17,4 @@ A clear and concise description of what the problem is.
 **Additional information**
 Add any other context about the problem here.
 
-**codelab:** build-your-first-android-app
+**codelab:** build-your-first-android-app-java

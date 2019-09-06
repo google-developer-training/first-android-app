@@ -1,7 +1,6 @@
 ---
 name: First Android App - Kotlin
-about: Report issues with the Build Your First Android App in Kotlin codelab template's
-  purpose here.
+about: Report issues with the Build Your First Android App in Kotlin codelab
 title: ''
 labels: ''
 assignees: ''
@@ -10,6 +9,9 @@ assignees: ''
 
 **Describe the problem**
 A clear and concise description of what the problem is.
+
+**In which step of the codelab can this issue be found?**
+Step number.
 
 **Versions**
 1. What version of Android Studio are you using?
